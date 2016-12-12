@@ -4,7 +4,7 @@ session_start();
 
 <html>
 <head>
-	<title> Welcome to Online Quiz Website</title>
+	<title> Welcome</title>
 	<link rel="stylesheet" type="text/css" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css">
 	<link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Tangerine">
 	<style>
